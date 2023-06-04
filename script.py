@@ -1,4 +1,4 @@
 import pandas as pd
 
 # Load Excel file into DataFrame
-df = pd.read_excel('path_to_excel_file.xlsx')
+df = pd.read_excel('pincodes_Ids_latest_excel.xlsx')
