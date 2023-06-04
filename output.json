@@ -1,0 +1,5726 @@
+[
+    {
+        "_id": "646d97f3fdd7c25d994b5b58",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423502,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b59",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422003,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5a",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5b",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423208,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5c",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422209,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5d",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422215,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5e",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b5f",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422004,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b60",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422211,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b61",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b62",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422212,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b63",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422206,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b64",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422208,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b65",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422010,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b66",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b67",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422001,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b68",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b69",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423402,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6a",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422213,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6b",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423104,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6c",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423303,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6d",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423205,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6e",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422403,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b6f",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b70",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b71",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b72",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422205,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b73",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423106,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b74",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422103,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b75",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422401,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b76",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b77",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422502,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b78",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423401,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b79",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7a",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423117,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7b",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422210,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7c",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422606,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7d",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422005,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7e",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423101,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b7f",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422007,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b80",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423213,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b81",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423212,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b82",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 424109,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b83",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b84",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423110,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b85",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423206,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b86",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423105,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b87",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422101,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b88",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422009,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b89",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422104,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8a",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422305,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8b",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422308,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8c",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8d",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423403,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8e",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422303,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b8f",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422302,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b90",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422011,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b91",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422006,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b92",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422222,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b93",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422402,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b94",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422002,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b95",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422112,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b96",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422113,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b97",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422304,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b98",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422306,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b99",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9a",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9b",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422221,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9c",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422207,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9d",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422012,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9e",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423108,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5b9f",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 423111,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba0",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422013,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba1",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422105,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba2",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422008,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba3",
+        "active": true,
+        "city": "nashik",
+        "inventory": "646d91ccfdd7c25d994b5b4c",
+        "pincode": 422214,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400708,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421601,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ba9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400610,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5baa",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401302,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bab",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bac",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421504,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bad",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400608,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bae",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5baf",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb0",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400614,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb1",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421002,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb2",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421603,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb3",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401105,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401101,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421308,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401701,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421001,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bb9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421312,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bba",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401503,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bbb",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400607,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bbc",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401601,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bbd",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401602,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bbe",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401608,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bbf",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400612,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc0",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421302,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc1",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401610,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc2",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400706,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc3",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421402,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401206,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421306,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421403,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bc9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400701,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bca",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401702,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bcb",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400602,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bcc",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401603,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bcd",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400606,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bce",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400703,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bcf",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400605,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd0",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401607,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd1",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421602,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd2",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400601,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd3",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421401,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401401,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401402,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421311,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400709,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400603,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bd9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401703,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bda",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421503,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bdb",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421605,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bdc",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401403,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bdd",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bde",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400710,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bdf",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401104,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be0",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401107,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be1",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401604,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be2",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401209,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be3",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421505,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401304,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421502,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421101,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401404,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401207,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5be9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400705,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bea",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401405,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5beb",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421103,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bec",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bed",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401609,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bee",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401606,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bef",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401502,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf0",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401504,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf1",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401506,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf2",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421004,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf3",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421005,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf4",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf5",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401106,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf6",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf7",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401103,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf8",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401208,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bf9",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421604,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bfa",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421305,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bfb",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401605,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bfc",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401303,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bfd",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 401305,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bfe",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5bff",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 421303,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c00",
+        "active": true,
+        "city": "thane",
+        "inventory": "646d91ccfdd7c25d994b5b4d",
+        "pincode": 400604,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c01",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400001,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c02",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400605,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c03",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400614,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c04",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400701,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c05",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400702,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c06",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400703,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c07",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400704,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c08",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400705,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c09",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400706,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0a",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400707,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0b",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400708,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0c",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400709,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0d",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 400710,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0e",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410106,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c0f",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410206,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c10",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410208,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c11",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410209,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c12",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410210,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c13",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410218,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c14",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 410221,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c15",
+        "active": true,
+        "city": "navi mumbai",
+        "inventory": "646d91ccfdd7c25d994b5b4e",
+        "pincode": 421204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c16",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421601,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c17",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c18",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c19",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1a",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1b",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421306,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1c",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421505,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1d",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1e",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421605,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c1f",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c20",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421403,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c21",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421103,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c22",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421002,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c23",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421004,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c24",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421005,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c25",
+        "active": true,
+        "city": "kalyan",
+        "inventory": "646d91ccfdd7c25d994b5b4f",
+        "pincode": 421202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c26",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440021,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c27",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440010,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c28",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441210,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c29",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441107,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2a",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440023,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2b",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441201,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2c",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440003,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2d",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441202,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2e",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441110,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c2f",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440001,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c30",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441203,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c31",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441106,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c32",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441108,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c33",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440024,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c34",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441101,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c35",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440008,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c36",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441115,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c37",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441401,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c38",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441304,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c39",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441214,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3a",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440004,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3b",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441305,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3c",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441104,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3d",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441102,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3e",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440013,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c3f",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440019,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c40",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441204,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c41",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440012,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c42",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441105,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c43",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441113,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c44",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441301,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c45",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441408,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c46",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441501,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c47",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441302,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c48",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440009,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c49",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441306,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4a",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441502,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4b",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440017,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4c",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440018,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4d",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441111,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4e",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441404,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c4f",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441114,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c50",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440016,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c51",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441122,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c52",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440014,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c53",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441103,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c54",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440005,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c55",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440035,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c56",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441001,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c57",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441002,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c58",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441112,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c59",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441303,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5a",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440025,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5b",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440022,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5c",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440028,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5d",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440032,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5e",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440030,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c5f",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441406,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c60",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440034,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c61",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440002,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c62",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440015,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c63",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440020,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c64",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440027,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c65",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441409,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c66",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440006,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c67",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441109,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c68",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441117,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c69",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440033,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6a",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440026,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6b",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 440007,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6c",
+        "active": true,
+        "city": "nagpur",
+        "inventory": "646d91ccfdd7c25d994b5b50",
+        "pincode": 441504,
+        "pincodeRegionName": "Urban",
+        "state": "6462766abad07b8131d39b07"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6d",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453115,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6e",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453551,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c6f",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453111,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c70",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453441,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c71",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452006,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c72",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453001,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c73",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453220,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c74",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452016,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c75",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453771,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c76",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452005,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c77",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452020,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c78",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453236,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c79",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453112,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7a",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452007,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7b",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453661,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7c",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452001,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7d",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452013,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7e",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452002,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c7f",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452010,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c80",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452015,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c81",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452003,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c82",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452008,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c83",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452018,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c84",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452014,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c85",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452009,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c86",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452011,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c87",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453331,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c88",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 452012,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c89",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453446,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8a",
+        "active": true,
+        "city": "indore",
+        "inventory": "646d91ccfdd7c25d994b5b51",
+        "pincode": 453332,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8b",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462030,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8c",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462042,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8d",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462021,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8e",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462011,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c8f",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462038,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c90",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462041,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c91",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462043,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c92",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462026,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c93",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 463106,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c94",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462010,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c95",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462045,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c96",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462101,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c97",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462044,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c98",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462008,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c99",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 463111,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9a",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462001,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9b",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462022,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9c",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462420,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9d",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462003,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9e",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462027,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5c9f",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462016,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca0",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462036,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca1",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462023,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca2",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462024,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca3",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462007,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca4",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462004,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca5",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462032,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca6",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462013,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca7",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462039,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca8",
+        "active": true,
+        "city": "bhopal",
+        "inventory": "646d91ccfdd7c25d994b5b52",
+        "pincode": 462002,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9b51664f0d624211966"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ca9",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500030,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5caa",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500004,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cab",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500045,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cac",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500007,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cad",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500012,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cae",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500015,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5caf",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500044,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb0",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500013,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb1",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 501201,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb2",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 501301,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb3",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500040,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb4",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500020,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb5",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500048,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb6",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500058,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb7",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500064,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb8",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500005,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cb9",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500034,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cba",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500027,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cbb",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500016,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cbc",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500003,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cbd",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500018,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cbe",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500080,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cbf",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500039,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc0",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500022,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc1",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500024,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc2",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500081,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc3",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500008,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc4",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500028,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc5",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500006,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc6",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500060,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc7",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500062,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc8",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500053,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cc9",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500065,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cca",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500029,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ccb",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500001,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ccc",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500068,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ccd",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500052,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cce",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500066,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ccf",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500025,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd0",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500051,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd1",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500035,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd2",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500002,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd3",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500076,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd4",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500082,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd5",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500031,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd6",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500079,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd7",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500085,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd8",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500033,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cd9",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500077,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cda",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500067,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cdb",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500074,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cdc",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500063,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cdd",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500017,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cde",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500036,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cdf",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500026,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce0",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500095,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce1",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500069,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce2",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500071,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce3",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500041,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce4",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500023,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce5",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500059,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce6",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500038,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce7",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500061,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce8",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500073,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ce9",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500070,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cea",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 500057,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ceb",
+        "active": true,
+        "city": "hyderabad",
+        "inventory": "646d91ccfdd7c25d994b5b53",
+        "pincode": 501101,
+        "pincodeRegionName": "Urban",
+        "state": "646cd9db1664f0d624211967"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cec",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531022,
+        "pincodeRegionName": "Urban",
+        "state": "646d97f3fdd7c25d994b5cec"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5ced",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530003,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cee",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531027,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cef",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531115,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf0",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531077,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf1",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531035,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf2",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531040,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf3",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530009,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf4",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530046,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf5",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530016,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf6",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531030,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf7",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531117,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf8",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531162,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cf9",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531055,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cfa",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531001,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cfb",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531219,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cfc",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531163,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cfd",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 535145,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cfe",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531084,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5cff",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531028,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d00",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531151,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d01",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531149,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d02",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530040,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d03",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531036,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d04",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531034,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d05",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531031,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d06",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531011,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d07",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530012,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d08",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530044,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d09",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531116,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0a",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531029,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0b",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531085,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0c",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531111,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0d",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531021,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0e",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531113,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d0f",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531082,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d10",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531023,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d11",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531081,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d12",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531087,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d13",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531026,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d14",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531020,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d15",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531173,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d16",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531025,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d17",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531083,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d18",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530047,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d19",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531024,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1a",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531032,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1b",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530020,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1c",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531105,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1d",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530043,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1e",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530031,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d1f",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531133,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d20",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531061,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d21",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531114,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d22",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531126,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d23",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530029,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d24",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530026,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d25",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530005,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d26",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531075,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d27",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530048,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d28",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530045,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d29",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530027,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2a",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530022,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2b",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531127,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2c",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530007,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2d",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530014,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2e",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530008,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d2f",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531033,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d30",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530017,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d31",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531060,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d32",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530002,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d33",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530011,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d34",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530018,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d35",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 531002,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d36",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530013,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d37",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530041,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d38",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530024,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d39",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530028,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3a",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530032,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3b",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530001,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3c",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530035,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3d",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530004,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3e",
+        "active": true,
+        "city": "visakhapatnam",
+        "inventory": "646d91ccfdd7c25d994b5b54",
+        "pincode": 530015,
+        "pincodeRegionName": "Urban",
+        "state": "646cdcd21664f0d62421196d"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d3f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560063,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d40",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560030,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d41",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560034,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d42",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560007,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d43",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560092,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d44",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560024,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d45",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562106,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d46",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560045,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d47",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560003,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d48",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560050,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d49",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562107,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560064,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560047,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560026,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560086,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560002,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d4f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560070,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d50",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560073,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d51",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562149,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d52",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560053,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d53",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560085,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d54",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560043,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d55",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560017,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d56",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560001,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d57",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560009,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d58",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560025,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d59",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560083,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560076,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560004,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560079,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560103,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560046,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d5f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562157,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d60",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560010,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d61",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560049,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d62",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560056,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d63",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560068,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d64",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560093,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d65",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560018,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d66",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560040,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d67",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560097,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d68",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560061,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d69",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562130,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560067,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560036,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560029,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560062,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560037,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d6f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560071,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d70",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 562125,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d71",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560016,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d72",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560100,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d73",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560005,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d74",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560065,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d75",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560019,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d76",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560021,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d77",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560022,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d78",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560013,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d79",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560087,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560008,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560051,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560102,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560104,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560048,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d7f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560094,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d80",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560066,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d81",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560038,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d82",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560078,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d83",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560006,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d84",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560014,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d85",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560015,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d86",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560041,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d87",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560069,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d88",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560011,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d89",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560020,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560084,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560096,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560098,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560095,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560077,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d8f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560074,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d90",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560054,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d91",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560023,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d92",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560033,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d93",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560055,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d94",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560099,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d95",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560072,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d96",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560039,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d97",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560075,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d98",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560032,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d99",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560058,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9a",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560059,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9b",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560080,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9c",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560027,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9d",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560012,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9e",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560042,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5d9f",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560028,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da0",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560052,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da1",
+        "active": true,
+        "city": "banglore",
+        "inventory": "646d91ccfdd7c25d994b5b55",
+        "pincode": 560091,
+        "pincodeRegionName": "Urban",
+        "state": "646cda131664f0d624211968"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da2",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493661,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da3",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493225,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da4",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493526,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da5",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493992,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da6",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493111,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da7",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493335,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da8",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493228,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5da9",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493890,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5daa",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493559,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dab",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493441,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dac",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493331,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dad",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492109,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dae",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493116,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5daf",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493332,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db0",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493101,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db1",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493344,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db2",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493663,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db3",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493551,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db4",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493885,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db5",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493889,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db6",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493113,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db7",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493118,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db8",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493195,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5db9",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493222,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dba",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493229,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dbb",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493338,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dbc",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493221,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dbd",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492001,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dbe",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493114,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dbf",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492101,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc0",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492112,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc1",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493996,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc2",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492015,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc3",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493888,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc4",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493196,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc5",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492011,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc6",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492008,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc7",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492012,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc8",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492002,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dc9",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492013,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dca",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 493881,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dcb",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492004,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dcc",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492009,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dcd",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492010,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dce",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492006,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dcf",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492014,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dd0",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492007,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dd1",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492099,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dd2",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492003,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    },
+    {
+        "_id": "646d97f3fdd7c25d994b5dd3",
+        "active": true,
+        "city": "raipur",
+        "inventory": "646d91ccfdd7c25d994b5b56",
+        "pincode": 492005,
+        "pincodeRegionName": "Urban",
+        "state": "646cda541664f0d624211969"
+    }
+]
