@@ -1,3 +1,6 @@
+#PIP INSTALL PANDAS
+#PIP INSTALL OPENPYXL
+
 import pandas as pd
 
 # Load Excel file into DataFrame
@@ -9,6 +12,6 @@ json_data = df.to_json(orient='records')
 # Save JSON data to a file
 with open('output.json', 'w') as file:
     file.write(json_data)
-  
+
     #installinh openpyxl
 
