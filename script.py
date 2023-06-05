@@ -9,6 +9,6 @@ json_data = df.to_json(orient='records')
 # Save JSON data to a file
 with open('output.json', 'w') as file:
     file.write(json_data)
-
+  
     #installinh openpyxl
 
