@@ -5,3 +5,5 @@ pip install pandas
 Additionally, the repository relies on the openpyxl library for handling Excel files. If openpyxl is not already installed in your environment, you can install it using the following command:
 
 pip install openpyxl
+
+These dependencies are necessary for the smooth execution of the Excel-to-JSON conversion functionality provided by this repository.
