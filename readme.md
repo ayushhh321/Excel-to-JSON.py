@@ -3,3 +3,5 @@ This repository focuses on converting Excel files into JSON format, primarily in
 pip install pandas
 
 Additionally, the repository relies on the openpyxl library for handling Excel files. If openpyxl is not already installed in your environment, you can install it using the following command:
+
+pip install openpyxl
