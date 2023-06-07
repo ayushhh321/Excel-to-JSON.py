@@ -16,4 +16,10 @@ Convert the DataFrame into a JSON string using json_data = df.to_json(orient='re
 
 Save the JSON data to a file named "output.json" using with open('output.json', 'w') as file: file.write(json_data). The with statement opens the file in write mode, and the JSON data stored in the json_data variable is written to the file. After writing, the file is automatically closed.
 
+At the end user will get JSON file (untracked form).
+
+User can convert untracked form into tracked form using these steps :
+
+Alt + Shift + F
+
 By following these steps, the code loads an Excel file, converts its contents into JSON format, and saves the resulting JSON data to a file. This can be useful for tasks such as uploading data from Excel to MongoDB.
